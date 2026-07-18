@@ -1,0 +1,36 @@
+# Local instructions
+AGENTS.md
+
+# Runtime patch data and external tools
+Assets/
+Tools/
+tools/
+
+# Build output
+bin/
+obj/
+publish/
+artifacts/
+packages/
+.vs/
+
+# User and debug files
+*.user
+*.suo
+*.pdb
+*.cache
+
+# Binary deliverables and game images
+*.exe
+*.dll
+*.zip
+*.iso
+*.xex
+*.xzp
+*.dds
+*.edp
+*.ttf
+*.otf
+
+# Distribution-only local documentation
+README.txt
