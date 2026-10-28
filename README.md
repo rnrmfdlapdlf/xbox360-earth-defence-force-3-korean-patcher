@@ -63,5 +63,3 @@ This product includes software developed by in <in@fishtank.com>.
 ---
 
 Developed with GPT-5.6
-
-RDB-PK7K-SU7C
